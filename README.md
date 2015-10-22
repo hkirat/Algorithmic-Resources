@@ -12,7 +12,7 @@ Competitive Coding
  - [Graphs](#graphs)
  - [Greedy](#greedy)
  - [Miscellaneous](#miscellaneous)
- - [Prefix and Suffix Trees](#trie)
+ - [Prefix and Suffix Trees](#Prefix-and-Suffix-rees)
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
