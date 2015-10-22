@@ -7,7 +7,7 @@ A Curated list of Topic wise Theory and Questions to Get You Started On Competit
 ### Contributing
 Kindly Go Through [Contribution Guidelines](https://github.com/hkirat/awesome-competitive-coding/blob/master/CONTRIBUTING.md) First.
 
-Competitive Coding
+Topics
 ---
 
  - [Dynamic Programming](#dynamic-programming)
