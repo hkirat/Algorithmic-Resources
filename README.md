@@ -2,6 +2,8 @@
 
 A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
 
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
+
 ### Contributing
 Kindly Go Through [Contribution Guidelines](https://github.com/hkirat/awesome-competitive-coding/blob/master/CONTRIBUTING.md) First.
 
