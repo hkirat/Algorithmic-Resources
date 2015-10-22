@@ -3,7 +3,7 @@
 A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
 
 ### Contributing
-Kindly go through [contribution](https://github.com/hkirat/awesome-competitive-coding/blob/master/CONTRIBUTING.md) guidelines first.
+Kindly Go Through [Contribution Guidelines](https://github.com/hkirat/awesome-competitive-coding/blob/master/CONTRIBUTING.md) First.
 
 Competitive Coding
 ---
