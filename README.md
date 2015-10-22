@@ -21,8 +21,8 @@ Dynamic Programming
 
  - Theory
 
- 	- [From basic to advanced level dynamic programming explained in Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
- 	- [What is Dynamic Programming by Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming)
+ 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+ 	- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming)
 
  - Questions
 
