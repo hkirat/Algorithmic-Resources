@@ -52,9 +52,9 @@ Greedy
 ---
  - Theory
 
-  	-[Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
-  	-[Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm)
-  	-[Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/)
+  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
+  	- [Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm)
+  	- [Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/)
  - Questions
 
   	- [Codeforces](http://codeforces.com/problemset/tags/greedy)
