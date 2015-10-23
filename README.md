@@ -9,7 +9,7 @@ Kindly Go Through [Contribution Guidelines](https://github.com/hkirat/awesome-co
 
 Topics
 ---
-
+ - [Binary and Ternary Search](#binary-and-terenary-search)
  - [Dynamic Programming](#dynamic-programming)
  - [Graphs](#graphs)
  - [Greedy](#greedy)
@@ -17,6 +17,18 @@ Topics
  - [Prefix and Suffix Trees](#prefix-and-suffix-trees)
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
+
+Binary and Ternary Search
+---
+ - Theory
+
+ 	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy)
+ 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard)
+ - Questions on
+
+ 	- [Codeforces](http://codeforces.com/problemset/tags/binary%20search)
+ 	- [A20j](http://a2oj.com/Category.jsp?ID=40)
+ 	- [Codechef](https://discuss.codechef.com/tags/binarysearch/)
 
 Dynamic Programming
 ---
@@ -26,7 +38,7 @@ Dynamic Programming
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
  	- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming)
 
- - Questions
+ - Questions on
 
  	- [Hackerrank](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
  	- [spoj](http://problemclassifier.appspot.com/?keywords=dp)
@@ -44,7 +56,7 @@ Graphs
  		- [Path Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
  	- [Codeforces](http://codeforces.com/blog/entry/16221) - Important Graph Algorithms by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
  	- [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1)
- - Questions
+ - Questions on
 
  	- [Codeforces](http://codeforces.com/problemset/tags/graphs)
  	- [Codechef](https://discuss.codechef.com/tags/graph/)
@@ -57,7 +69,7 @@ Greedy
   	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
   	- [Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm)
   	- [Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/)
- - Questions
+ - Questions on
 
   	- [Codeforces](http://codeforces.com/problemset/tags/greedy)
   	- [A2oj](http://a2oj.com/Category.jsp?ID=56)
@@ -84,7 +96,7 @@ Prefix and Suffix Trees
  	- [Wikipedia](https://en.wikipedia.org/wiki/Trie)
  	- [Tutorial by Sartaj Sahni](http://marknelson.us/1996/08/01/suffix-trees/)
  	- [Suffix Trees Explained](http://marknelson.us/1996/08/01/suffix-trees/)
- - Questions
+ - Questions on
 
  	- [Codechef](https://www.codechef.com/problems/TWSTR/)
  	- [Another problem on Codechef](https://www.codechef.com/SEPT13/problems/TMP01)
@@ -97,7 +109,7 @@ Segment Trees
  	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/)
  	- [Codeforces](http://codeforces.com/blog/entry/15890) - Everything about Segment trees by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
  	- [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html)
- - Questions
+ - Questions on
 
  	- [Codechef](https://discuss.codechef.com/tags/segment-tree/)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=25)
@@ -107,7 +119,7 @@ Trees
  - Theory
 
  	- [Hackerearth](https://www.hackerearth.com/notes/trees/)
- - Questions
+ - Questions on
 
  	- [Hackerrank](https://www.hackerrank.com/domains/data-structures/trees)
  	- [Codechef](https://discuss.codechef.com/tags/trees/)
