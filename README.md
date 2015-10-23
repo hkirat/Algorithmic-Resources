@@ -9,7 +9,7 @@ Kindly Go Through [Contribution Guidelines](https://github.com/hkirat/awesome-co
 
 Topics
 ---
- - [Binary and Ternary Search](#binary-and-terenary-search)
+ - [Binary and Ternary Search](#binary-and-ternary-search)
  - [Dynamic Programming](#dynamic-programming)
  - [Graphs](#graphs)
  - [Greedy](#greedy)
@@ -22,8 +22,9 @@ Binary and Ternary Search
 ---
  - Theory
 
- 	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy)
- 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard)
+ 	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
+ 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
+ 	- [Ternary Search](http://rendon.x10.mx/ternary-search/) - Blog Post on Ternary Search.
  - Questions on
 
  	- [Codeforces](http://codeforces.com/problemset/tags/binary%20search)
