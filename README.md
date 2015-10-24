@@ -11,6 +11,7 @@ Topics
 ---
  - [Binary and Ternary Search](#binary-and-ternary-search)
  - [Dynamic Programming](#dynamic-programming)
+ - [Game Theory](#game-theory)
  - [Graphs](#graphs)
  - [Greedy](#greedy)
  - [Miscellaneous](#miscellaneous)
@@ -46,6 +47,18 @@ Dynamic Programming
  	- [More Problems on SPOJ](http://apps.topcoder.com/forums/;jsessionid=C684F032169B7439C8012AAB6BA2018C?module=Thread&threadID=674592)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=33)
  	- [Codeforces](http://codeforces.com/problemset/tags/dp)
+
+Game Theory
+---
+
+	- Theory
+		- [Stanford](http://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf) - PDF on Combinatorial Games.
+		- [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Nim Games.
+		- [Book](http://www.cs.ox.ac.uk/files/2735/Composite_games.pdf) - Composite Mathematical Games.
+		- [Book](http://www.math.ucla.edu/~tom/Game_Theory/comb.pdf) - Game Theory By Thomas S. Ferguson.
+
+	- Questions on 
+		- [A2oj](http://a2oj.com/Category.jsp?ID=91)
 
 Graphs
 ---
