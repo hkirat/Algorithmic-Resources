@@ -14,6 +14,7 @@ Topics
  - [Game Theory](#game-theory)
  - [Graphs](#graphs)
  - [Greedy](#greedy)
+ - [Maths](#maths)
  - [Miscellaneous](#miscellaneous)
  - [Prefix and Suffix Trees](#prefix-and-suffix-trees)
  - [Segment Trees](#segment-trees)
@@ -87,6 +88,15 @@ Greedy
 
   	- [Codeforces](http://codeforces.com/problemset/tags/greedy)
   	- [A2oj](http://a2oj.com/Category.jsp?ID=56)
+
+Maths
+---
+ - Theory
+ 	[Stanford](http://web.stanford.edu/class/cs97si/02-mathematics.pdf) - Stanford's Guide on Introduction To Competitive Programming.
+ 	[Aduni](http://www.aduni.org/courses/discrete/index.php?view=cw) - Course Guide to Discrete Mathematics.
+
+ - Questions
+ 	[]()
 
 Miscellaneous
 ---
