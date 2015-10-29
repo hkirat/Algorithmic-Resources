@@ -111,6 +111,8 @@ Miscellaneous
  - Persistant Segment Trees
  	- [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
  	- [MKTHNUM on Spoj](http://www.spoj.com/problems/MKTHNUM/en/)
+ - Mobius Function
+ 	- [Dance With Mobius Function by Surya Kiran](https://www.quora.com/profile/Surya-Kiran/Posts/A-Dance-with-Mobius-Function)
  - Treaps
  	- [Codeforces](http://codeforces.com/blog/entry/11148)
  	- [Wikipedia](https://en.wikipedia.org/wiki/Treap)
