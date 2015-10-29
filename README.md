@@ -117,7 +117,11 @@ Miscellaneous
  	- [Codeforces](http://codeforces.com/blog/entry/11148)
  	- [Wikipedia](https://en.wikipedia.org/wiki/Treap)
  	- [TREAP on Spoj](http://www.spoj.com/problems/TREAP/)
-
+ - Bit Manipulation
+	- [HackerRank](https://www.hackerrank.com/domains/algorithms/bit-manipulation)
+	- [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/)
+	- [Spoj](http://www.spoj.com/problems/PEBBLE/)
+	
 Prefix and Suffix Trees
 ---
  - Theory
