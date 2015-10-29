@@ -121,6 +121,7 @@ Miscellaneous
 	- [HackerRank](https://www.hackerrank.com/domains/algorithms/bit-manipulation)
 	- [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/)
 	- [Spoj](http://www.spoj.com/problems/PEBBLE/)
+	
 Prefix and Suffix Trees
 ---
  - Theory
