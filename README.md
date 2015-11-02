@@ -118,10 +118,9 @@ Miscellaneous
  	- [Wikipedia](https://en.wikipedia.org/wiki/Treap)
  	- [TREAP on Spoj](http://www.spoj.com/problems/TREAP/)
  - Bit Manipulation
-	- [HackerRank](https://www.hackerrank.com/domains/algorithms/bit-manipulation)
-	- [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/)
-	- [Spoj](http://www.spoj.com/problems/PEBBLE/)
-	
+	- [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/).
+	- [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on but manipulation.
+
 Prefix and Suffix Trees
 ---
  - Theory
