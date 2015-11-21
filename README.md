@@ -22,6 +22,8 @@ Topics
 
 Binary and Ternary Search
 ---
+ Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non lenear time.
+ Ternary Search : The process of exploiting the property of a function having double diffrential of a constant sign to arrive to results in non lenear time.
  - Theory
 
  	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
