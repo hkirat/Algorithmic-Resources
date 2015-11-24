@@ -53,7 +53,7 @@ Dynamic Programming
 
 Game Theory
 ---
-
+*Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
  - Theory
 	- [Stanford](http://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf) - PDF on Combinatorial Games.
 	- [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Nim Games.
