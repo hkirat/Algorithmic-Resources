@@ -15,6 +15,7 @@ Topics
  - [Graphs](#graphs)
  - [Greedy](#greedy)
  - [Maths](#maths)
+ - [Matrix Exponentiation](#matrix-exponentiation)
  - [Miscellaneous](#miscellaneous)
  - [Prefix and Suffix Trees](#prefix-and-suffix-trees)
  - [Segment Trees](#segment-trees)
@@ -65,6 +66,7 @@ Game Theory
 
 Graphs
 ---
+
  - Theory
 
  	- [Topcoder](https://topcoder.com)
@@ -94,14 +96,27 @@ Greedy
 Maths
 ---
  - Theory
+
  	- [Stanford](http://web.stanford.edu/class/cs97si/02-mathematics.pdf) - Stanford's Guide on Introduction To Competitive Programming.
  	- [Aduni](http://www.aduni.org/courses/discrete/index.php?view=cw) - Course Guide to Discrete Mathematics.
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/) - Understanding Probability.
 
  - Questions on 
+ 
  	- [A20j](http://a2oj.com/Category.jsp?ID=86)
  	- [Codechef](https://discuss.codechef.com/tags/simple-math/) - Basic
  	- [Codechef](https://discuss.codechef.com/tags/maths/) - Advanced
+
+Matrix Exponentiation
+---
+*Used to solve problems which involve finding a solution to a given series by using exponentiation property.The complexity is thus reduced to logrithmic from lenear.*
+ - Theory
+
+ 	- [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
+ 	- [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
+ - Questions on
+
+ 	- [A2oj](http://a2oj.com/Category.jsp?ID=32)
 
 Miscellaneous
 ---
