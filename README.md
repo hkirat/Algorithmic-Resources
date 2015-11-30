@@ -24,6 +24,7 @@ Topics
 Binary and Ternary Search
 ---
 *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non lenear time.*
+
 *Ternary Search : The process of exploiting the property of a function having double diffrential of a constant sign to arrive to results in non lenear time.*
  - Theory
 
@@ -74,7 +75,7 @@ Graphs
  		- [Searching in a Graph](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/)
  		- [Path Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
  	- [Codeforces](http://codeforces.com/blog/entry/16221) - Important Graph Algorithms by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
- 	- [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1)
+ 	- [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1) - Tutorial on Graph Theory - part 1
  - Questions on
 
  	- [Codeforces](http://codeforces.com/problemset/tags/graphs)
