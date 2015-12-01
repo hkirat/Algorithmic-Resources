@@ -143,11 +143,13 @@ Miscellaneous
 
 Prefix and Suffix Trees
 ---
+*Tries are some kind of rooted trees in which each edge has a character on it.*
  - Theory
 
  	- [Wikipedia](https://en.wikipedia.org/wiki/Trie)
  	- [Tutorial by Sartaj Sahni](http://marknelson.us/1996/08/01/suffix-trees/)
  	- [Suffix Trees Explained](http://marknelson.us/1996/08/01/suffix-trees/)
+ 	
  - Questions on
 
  	- [Codechef](https://www.codechef.com/problems/TWSTR/)
@@ -156,6 +158,7 @@ Prefix and Suffix Trees
 
 Segment Trees
 ---
+*Segment tree is a tree for which each of it's nodes belongs to an interval.*
  - Theory
 
  	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/)
