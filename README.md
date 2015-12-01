@@ -59,7 +59,7 @@ Game Theory
 *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
  - Theory
 	- [Stanford](http://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf) - PDF on Combinatorial Games.
-	- [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Nim Games.
+	- [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Introduction to Nim Games.
 	- [Book](http://www.cs.ox.ac.uk/files/2735/Composite_games.pdf) - Composite Mathematical Games.
 	- [Book](http://www.math.ucla.edu/~tom/Game_Theory/comb.pdf) - Game Theory By Thomas S. Ferguson.
 
