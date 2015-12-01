@@ -62,6 +62,8 @@ Game Theory
 	- [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Introduction to Nim Games.
 	- [Book](http://www.cs.ox.ac.uk/files/2735/Composite_games.pdf) - Composite Mathematical Games.
 	- [Book](http://www.math.ucla.edu/~tom/Game_Theory/comb.pdf) - Game Theory By Thomas S. Ferguson.
+	- [Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem) - Sprague Grundy Theorem.
+	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/) - Introduction to Algorithmic Games.
 
  - Questions on 
 	- [A2oj](http://a2oj.com/Category.jsp?ID=91)
