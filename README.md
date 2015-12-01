@@ -99,6 +99,7 @@ Greedy
 
 Maths
 ---
+*Problem related to mathematics are quite common in the domain of competitive programming.It involved topics like geometry, algebra, discrete mathematics and probability.*
  - Theory
 
  	- [Stanford](http://web.stanford.edu/class/cs97si/02-mathematics.pdf) - Stanford's Guide on Introduction To Competitive Programming.
