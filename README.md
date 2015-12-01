@@ -150,9 +150,9 @@ Prefix and Suffix Trees
 *Tries are some kind of rooted trees in which each edge has a character on it.*
  - Theory
 
- 	- [Wikipedia](https://en.wikipedia.org/wiki/Trie)
- 	- [Tutorial by Sartaj Sahni](http://marknelson.us/1996/08/01/suffix-trees/)
- 	- [Suffix Trees Explained](http://marknelson.us/1996/08/01/suffix-trees/)
+ 	- [Wikipedia](https://en.wikipedia.org/wiki/Trie) - Introduction to Tries.
+ 	- [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Tutorial on prefix and suffix trees by Sartaj Sahni
+ 	- [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Suffix Trees Explained.
 
  - Questions on
 
@@ -165,9 +165,9 @@ Segment Trees
 *Segment tree is a tree for which each of it's nodes belongs to an interval.*
  - Theory
 
- 	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/) - Segment trees for Beginners by [Ayush Agrawal](https://www.hackerearth.com/users/ayusha1107/).
+	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/) - Segment trees for Beginners by [Ayush Agrawal](https://www.hackerearth.com/users/ayusha1107/).
  	- [Codeforces](http://codeforces.com/blog/entry/15890) - Everything about Segment trees by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
- 	- [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html) - Segment Trees and Lazy propogation.Solving problems related to updation of segment tree in logrithmic time.
+	- [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html) - Segment Trees and Lazy propogation.Solving problems related to updation of segment tree in logrithmic time.
 
  - Questions on
 
