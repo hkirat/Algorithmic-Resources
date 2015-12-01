@@ -68,7 +68,7 @@ Game Theory
 
 Graphs
 ---
-
+*A graph consists of nodes and the interconnection between them.The problems involve finding shortest distance, connectivity and flow.*
  - Theory
 
  	- [Topcoder](https://topcoder.com)
