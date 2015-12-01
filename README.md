@@ -40,11 +40,11 @@ Binary and Ternary Search
 
 Dynamic Programming
 ---
-*Used to solve questions which can be broken down into smaller sub problems.*
+*Used to solve questions which can be broken down into smaller sub problems.It involves the technique of saving the result of a problem for future reference.*
  - Theory
 
- 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
- 	- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming)
+ 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) - Dynamic Programming from Novice to Advanced.
+ 	- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming) - Tutorial on Dynamic Programming.
 
  - Questions on
 
