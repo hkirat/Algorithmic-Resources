@@ -31,6 +31,7 @@ Binary and Ternary Search
  	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
  	- [Ternary Search](http://rendon.x10.mx/ternary-search/) - Blog Post on Ternary Search.
+
  - Questions on
 
  	- [Codeforces](http://codeforces.com/problemset/tags/binary%20search)
@@ -76,6 +77,7 @@ Graphs
  		- [Path Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
  	- [Codeforces](http://codeforces.com/blog/entry/16221) - Important Graph Algorithms by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
  	- [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1) - Tutorial on Graph Theory - part 1
+
  - Questions on
 
  	- [Codeforces](http://codeforces.com/problemset/tags/graphs)
@@ -89,6 +91,7 @@ Greedy
   	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) - Greedy is Good.
   	- [Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) - Tutorial on how to spot a greedy algorithm.
   	- [Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/) - Tutorial on greedy algorithms by [Akash Sharma](https://www.hackerearth.com/users/r3gz3n/).
+
  - Questions on
 
   	- [Codeforces](http://codeforces.com/problemset/tags/greedy)
@@ -115,6 +118,7 @@ Matrix Exponentiation
 
  	- [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
  	- [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
+
  - Questions on
 
  	- [A2oj](http://a2oj.com/Category.jsp?ID=32)
@@ -149,7 +153,7 @@ Prefix and Suffix Trees
  	- [Wikipedia](https://en.wikipedia.org/wiki/Trie)
  	- [Tutorial by Sartaj Sahni](http://marknelson.us/1996/08/01/suffix-trees/)
  	- [Suffix Trees Explained](http://marknelson.us/1996/08/01/suffix-trees/)
- 	
+
  - Questions on
 
  	- [Codechef](https://www.codechef.com/problems/TWSTR/)
@@ -164,6 +168,7 @@ Segment Trees
  	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/)
  	- [Codeforces](http://codeforces.com/blog/entry/15890) - Everything about Segment trees by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
  	- [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html)
+
  - Questions on
 
  	- [Codechef](https://discuss.codechef.com/tags/segment-tree/)
