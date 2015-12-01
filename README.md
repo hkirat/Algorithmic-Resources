@@ -86,6 +86,7 @@ Graphs
 
 Greedy
 ---
+*Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
  - Theory
 
   	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) - Greedy is Good.
