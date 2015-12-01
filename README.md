@@ -115,7 +115,7 @@ Maths
 
 Matrix Exponentiation
 ---
-*Used to solve problems which involve finding a solution to a given series by using exponentiation property.The complexity is thus reduced to logrithmic from linear.*
+*Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.*
  - Theory
 
  	- [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
