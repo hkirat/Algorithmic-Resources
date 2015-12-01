@@ -166,9 +166,12 @@ Segment Trees
 
 Trees
 ---
+*A tree is a data structure made up of nodes or vertices and edges without having any cycle.*
  - Theory
 
- 	- [Hackerearth](https://www.hackerearth.com/notes/trees/)
+ 	- [Hackerearth](https://www.hackerearth.com/notes/trees/) - Baisc introduction to trees and terminologies related to it by [Anuj Garg](https://www.hackerearth.com/users/anuj09garg/)
+ 	- [Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure)) - Tree (data structure)
+ 	
  - Questions on
 
  	- [Hackerrank](https://www.hackerrank.com/domains/data-structures/trees)
