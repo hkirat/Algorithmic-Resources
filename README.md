@@ -23,9 +23,9 @@ Topics
 
 Binary and Ternary Search
 ---
-*Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non lenear time.*
+*Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
 
-*Ternary Search : The process of exploiting the property of a function having double diffrential of a constant sign to arrive to results in non lenear time.*
+*Ternary Search : The process of exploiting the property of a function having double diffrential of a constant sign to arrive to results in non linear time.*
  - Theory
 
  	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
@@ -115,7 +115,7 @@ Maths
 
 Matrix Exponentiation
 ---
-*Used to solve problems which involve finding a solution to a given series by using exponentiation property.The complexity is thus reduced to logrithmic from lenear.*
+*Used to solve problems which involve finding a solution to a given series by using exponentiation property.The complexity is thus reduced to logrithmic from linear.*
  - Theory
 
  	- [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
