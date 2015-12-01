@@ -169,7 +169,7 @@ Segment Trees
 
 	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/) - Segment trees for Beginners by [Ayush Agrawal](https://www.hackerearth.com/users/ayusha1107/).
  	- [Codeforces](http://codeforces.com/blog/entry/15890) - Everything about Segment trees by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
-	- [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html) - Segment Trees and Lazy propogation.Solving problems related to updation of segment tree in logrithmic time.
+	- [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html) - Solving problems related to updation of segment tree in logrithmic time (also known as lazy propogation).
 
  - Questions on
 
