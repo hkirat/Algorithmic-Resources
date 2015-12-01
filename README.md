@@ -138,6 +138,8 @@ Miscellaneous
  - Bit Manipulation
 	- [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/).
 	- [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on but manipulation.
+ - Other Resources
+ 	- [Data Structures](http://codeforces.com/blog/entry/15729) - A guide to high level data structures by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
 
 Prefix and Suffix Trees
 ---
@@ -171,7 +173,7 @@ Trees
 
  	- [Hackerearth](https://www.hackerearth.com/notes/trees/) - Baisc introduction to trees and terminologies related to it by [Anuj Garg](https://www.hackerearth.com/users/anuj09garg/)
  	- [Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure)) - Tree (data structure)
- 	
+
  - Questions on
 
  	- [Hackerrank](https://www.hackerrank.com/domains/data-structures/trees)
