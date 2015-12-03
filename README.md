@@ -145,7 +145,7 @@ Miscellaneous
  	- [TREAP on Spoj](http://www.spoj.com/problems/TREAP/)
  - Bit Manipulation
 	- [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/).
-	- [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on but manipulation.
+	- [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
  - Other Resources
  	- [Data Structures](http://codeforces.com/blog/entry/15729) - A guide to high level data structures by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
 
