@@ -166,7 +166,7 @@ Prefix and Suffix Trees
 
 Segment Trees
 ---
-*Segment tree is a tree for which each of it's nodes belongs to an interval.*
+*Segment tree is a tree for which each node represents an interval.*
  - Theory
 
 	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/) - Segment trees for Beginners by [Ayush Agrawal](https://www.hackerearth.com/users/ayusha1107/).
