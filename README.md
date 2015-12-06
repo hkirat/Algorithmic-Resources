@@ -35,7 +35,7 @@ Binary and Ternary Search
  - Questions on
 
  	- [Codeforces](http://codeforces.com/problemset/tags/binary%20search)
- 	- [A20j](http://a2oj.com/Category.jsp?ID=40)
+ 	- [A2oj](http://a2oj.com/Category.jsp?ID=40)
  	- [Codechef](https://discuss.codechef.com/tags/binarysearch/)
 
 Dynamic Programming
@@ -111,7 +111,7 @@ Maths
 
  - Questions on 
  
- 	- [A20j](http://a2oj.com/Category.jsp?ID=86)
+ 	- [A2oj](http://a2oj.com/Category.jsp?ID=86)
  	- [Codechef](https://discuss.codechef.com/tags/simple-math/) - Basic
  	- [Codechef](https://discuss.codechef.com/tags/maths/) - Advanced
 
