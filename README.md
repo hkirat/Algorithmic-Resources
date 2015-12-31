@@ -22,7 +22,7 @@ Topics
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
-Binary and Ternary Search
+# Binary and Ternary Search
 ---
 *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
 
@@ -40,7 +40,7 @@ Binary and Ternary Search
  	- [A2oj](http://a2oj.com/Category.jsp?ID=40)
  	- [Codechef](https://discuss.codechef.com/tags/binarysearch/)
 
-Dynamic Programming
+# Dynamic Programming
 ---
 *Used to solve questions which can be broken down into smaller sub problems.It involves the technique of saving the result of a problem for future reference.*
 
@@ -57,7 +57,7 @@ Dynamic Programming
  	- [A2oj](http://a2oj.com/Category.jsp?ID=33)
  	- [Codeforces](http://codeforces.com/problemset/tags/dp)
 
-Flow
+# Flow
 ---
 
  - Theory
@@ -70,7 +70,7 @@ Flow
  	- [spoj](http://problemclassifier.appspot.com/?keywords=flow)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=12)
 
-Game Theory
+# Game Theory
 ---
 *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
 
@@ -85,7 +85,7 @@ Game Theory
  - Questions on 
 	- [A2oj](http://a2oj.com/Category.jsp?ID=91)
 
-Graphs
+# Graphs
 ---
 *A graph consists of nodes and the interconnection between them.The problems involve finding shortest distance, connectivity and flow.*	
 
@@ -104,7 +104,7 @@ Graphs
  	- [Codechef](https://discuss.codechef.com/tags/graph/)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=13)
 
-Greedy
+# Greedy
 ---
 *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
 
@@ -119,7 +119,7 @@ Greedy
   	- [Codeforces](http://codeforces.com/problemset/tags/greedy)
   	- [A2oj](http://a2oj.com/Category.jsp?ID=56)
 
-Maths
+# Maths
 ---
 *Problem related to mathematics are quite common in the domain of competitive programming.It involved topics like geometry, algebra, discrete mathematics and probability.*
 
@@ -135,7 +135,7 @@ Maths
  	- [Codechef](https://discuss.codechef.com/tags/simple-math/) - Basic
  	- [Codechef](https://discuss.codechef.com/tags/maths/) - Advanced
 
-Matrix Exponentiation
+# Matrix Exponentiation
 ---
 *Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.*
 
@@ -148,7 +148,7 @@ Matrix Exponentiation
 
  	- [A2oj](http://a2oj.com/Category.jsp?ID=32)
 
-Miscellaneous
+# Miscellaneous
 ---
 
  - Mo's Algorithm
@@ -176,7 +176,7 @@ Miscellaneous
  - Other Resources
  	- [Data Structures](http://codeforces.com/blog/entry/15729) - A guide to high level data structures by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
 
-Prefix and Suffix Trees
+# Prefix and Suffix Trees
 ---
 *Tries are some kind of rooted trees in which each edge has a character on it.*
 
@@ -192,7 +192,7 @@ Prefix and Suffix Trees
  	- [Another problem on Codechef](https://www.codechef.com/SEPT13/problems/TMP01)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=49)
 
-Segment Trees
+# Segment Trees
 ---
 *Segment tree is a tree for which each node represents an interval.*
 
@@ -207,7 +207,7 @@ Segment Trees
  	- [Codechef](https://discuss.codechef.com/tags/segment-tree/)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=25)
 
-Trees
+# Trees
 ---
 *A tree is a data structure made up of nodes or vertices and edges without having any cycle.*
 
