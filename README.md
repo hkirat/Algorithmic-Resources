@@ -27,6 +27,7 @@ Binary and Ternary Search
 *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
 
 *Ternary Search : The process of exploiting the property of a function having double diffrential of a constant sign to arrive to results in non linear time.*
+
  - Theory
 
  	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
@@ -42,6 +43,7 @@ Binary and Ternary Search
 Dynamic Programming
 ---
 *Used to solve questions which can be broken down into smaller sub problems.It involves the technique of saving the result of a problem for future reference.*
+
  - Theory
 
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) - Dynamic Programming from Novice to Advanced.
@@ -71,6 +73,7 @@ Flow
 Game Theory
 ---
 *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
+
  - Theory
 	- [Stanford](http://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf) - PDF on Combinatorial Games.
 	- [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Introduction to Nim Games.
@@ -85,6 +88,7 @@ Game Theory
 Graphs
 ---
 *A graph consists of nodes and the interconnection between them.The problems involve finding shortest distance, connectivity and flow.*	
+
  - Theory
 
  	- [Topcoder](https://topcoder.com)
@@ -103,6 +107,7 @@ Graphs
 Greedy
 ---
 *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
+
  - Theory
 
   	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) - Greedy is Good.
@@ -117,6 +122,7 @@ Greedy
 Maths
 ---
 *Problem related to mathematics are quite common in the domain of competitive programming.It involved topics like geometry, algebra, discrete mathematics and probability.*
+
  - Theory
 
  	- [Stanford](http://web.stanford.edu/class/cs97si/02-mathematics.pdf) - Stanford's Guide on Introduction To Competitive Programming.
@@ -132,6 +138,7 @@ Maths
 Matrix Exponentiation
 ---
 *Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.*
+
  - Theory
 
  	- [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
@@ -143,29 +150,36 @@ Matrix Exponentiation
 
 Miscellaneous
 ---
+
  - Mo's Algorithm
  	- [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
  	- [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
  	- [DQUERY on Spoj](http://www.spoj.com/problems/DQUERY/en/)
  	- [FREQUENT on Spoj](http://www.spoj.com/problems/FREQUENT/)
+
  - Persistant Segment Trees
  	- [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
  	- [MKTHNUM on Spoj](http://www.spoj.com/problems/MKTHNUM/en/)
+
  - Mobius Function
  	- [Dance With Mobius Function by Surya Kiran](https://www.quora.com/profile/Surya-Kiran/Posts/A-Dance-with-Mobius-Function)
+
  - Treaps
  	- [Codeforces](http://codeforces.com/blog/entry/11148)
  	- [Wikipedia](https://en.wikipedia.org/wiki/Treap)
  	- [TREAP on Spoj](http://www.spoj.com/problems/TREAP/)
+
  - Bit Manipulation
 	- [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/).
 	- [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
+
  - Other Resources
  	- [Data Structures](http://codeforces.com/blog/entry/15729) - A guide to high level data structures by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
 
 Prefix and Suffix Trees
 ---
 *Tries are some kind of rooted trees in which each edge has a character on it.*
+
  - Theory
 
  	- [Wikipedia](https://en.wikipedia.org/wiki/Trie) - Introduction to Tries.
@@ -181,6 +195,7 @@ Prefix and Suffix Trees
 Segment Trees
 ---
 *Segment tree is a tree for which each node represents an interval.*
+
  - Theory
 
 	- [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/) - Segment trees for Beginners by [Ayush Agrawal](https://www.hackerearth.com/users/ayusha1107/).
@@ -195,6 +210,7 @@ Segment Trees
 Trees
 ---
 *A tree is a data structure made up of nodes or vertices and edges without having any cycle.*
+
  - Theory
 
  	- [Hackerearth](https://www.hackerearth.com/notes/trees/) - Baisc introduction to trees and terminologies related to it by [Anuj Garg](https://www.hackerearth.com/users/anuj09garg/)
