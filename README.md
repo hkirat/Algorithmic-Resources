@@ -10,17 +10,26 @@ Kindly Go Through [Contribution Guidelines](https://github.com/hkirat/awesome-co
 Topics
 ---
  - [Binary and Ternary Search](#binary-and-ternary-search)
+ - [Data Structures](#data-structures)
+     - [Fenwick Trees](#fenwick-trees)
+     - [Prefix and Suffix Trees](#prefix-and-suffix-trees)
+     - [Segment Trees](#segment-trees)
+     - [Treaps](#treaps)
+     - [Trees](#trees)
  - [Dynamic Programming](#dynamic-programming)
- - [Flow](#flow)
  - [Game Theory](#game-theory)
  - [Graphs](#graphs)
+     - [Bipartite Graphs and Matchings](#bipartite-graphs-and-matchings)
+     - [Connected Components](#connected-components)
+     - [Flow](#flow)
+     - [Minimum Spanning Tree](#minimum-spanning-tree)
+     - [Shortest Path](#shortest-path)
  - [Greedy](#greedy)
  - [Maths](#maths)
- - [Matrix Exponentiation](#matrix-exponentiation)
+     - [Matrix Exponentiation](#matrix-exponentiation)
+     - [Matrix Linear Algebra](#matrix-linear-algebra)
+     - [Primes](#primes)
  - [Miscellaneous](#miscellaneous)
- - [Prefix and Suffix Trees](#prefix-and-suffix-trees)
- - [Segment Trees](#segment-trees)
- - [Trees](#trees)
 
 ## Binary and Ternary Search
 ---
