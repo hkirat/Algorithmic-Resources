@@ -187,6 +187,18 @@ Topics
  	- [Another problem on Codechef](https://www.codechef.com/SEPT13/problems/TMP01)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=49)
 
+## Binary Indexed Tree
+---
+*A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.*
+
+ - Theory
+
+  - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/) 
+  - [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
+  - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+ - Questions on
+  - [A2oj](https://a2oj.com/Category.jsp?ID=26)
+
 ## Segment Trees
 ---
 *Segment tree is a tree for which each node represents an interval.*
