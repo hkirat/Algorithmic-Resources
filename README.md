@@ -14,6 +14,7 @@ Topics
  - [Matrix Exponentiation](#matrix-exponentiation)
  - [Miscellaneous](#miscellaneous)
  - [Prefix and Suffix Trees](#prefix-and-suffix-trees)
+ - [Binary Indexed Trees](#binary-indexed-trees)
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
@@ -187,7 +188,7 @@ Topics
  	- [Another problem on Codechef](https://www.codechef.com/SEPT13/problems/TMP01)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=49)
 
-## Binary Indexed Tree
+## Binary Indexed Trees
 ---
 *A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.*
 
