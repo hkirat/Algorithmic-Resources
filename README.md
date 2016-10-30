@@ -139,10 +139,12 @@ Topics
 
  	- [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
  	- [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
+	- [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
 
  - Questions on
 
  	- [A2oj](http://a2oj.com/Category.jsp?ID=32)
+	- [POWSUM on CodeChef](https://www.codechef.com/problems/POWSUMS)
 
 ## Miscellaneous
 ---
