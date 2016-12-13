@@ -28,7 +28,6 @@ Topics
 
  	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
- 	- [Ternary Search](http://rendon.x10.mx/ternary-search/) - Blog Post on Ternary Search.
 
  - Questions on
 
