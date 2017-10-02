@@ -184,6 +184,9 @@ Topics
  	- [Wikipedia](https://en.wikipedia.org/wiki/Trie) - Introduction to Tries.
  	- [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Tutorial on prefix and suffix trees by Sartaj Sahni
  	- [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Suffix Trees Explained.
+	- [Geeksforgeeks](http://www.geeksforgeeks.org/trie-insert-and-search/) - Trie, Insertion and Search
+	- [Geeksforgeeks](http://www.geeksforgeeks.org/trie-delete/) - Trie, Deletion.
+
 
  - Questions on
 
