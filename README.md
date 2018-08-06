@@ -43,6 +43,7 @@ Topics
  - Theory
 
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) - Dynamic Programming from Novice to Advanced.
+	- [InterviewBit](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/) - Dynamic Programming Tutorial, Examples & Problems
  	- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming) - Tutorial on Dynamic Programming.
  	- [Quora](https://www.quora.com/How-can-one-start-solving-Dynamic-Programming-problems/) - Getting started with Dynamic Programming (Quora Discussion).
 
