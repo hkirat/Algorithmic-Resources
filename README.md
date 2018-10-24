@@ -18,7 +18,7 @@ Topics
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
-## Binary and Ternary Search
+## Binary Search and Ternary Search
 ---
 *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
 
