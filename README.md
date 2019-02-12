@@ -4,7 +4,7 @@ A Curated list of Topic wise Theory and Questions to Get You Started On Competit
 
 Topics
 ---
- - [Binary and Ternary Search](#binary-and-ternary-search)
+ - [Binary Search and Ternary Search](#binary-and-ternary-search)
  - [Dynamic Programming](#dynamic-programming)
  - [Flow](#flow)
  - [Game Theory](#game-theory)
