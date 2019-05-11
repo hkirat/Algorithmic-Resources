@@ -4,6 +4,7 @@ A Curated list of Topic wise Theory and Questions to Get You Started On Competit
 
 Topics
 ---
+ - [Arrays](#arrays)
  - [Binary and Ternary Search](#binary-and-ternary-search)
  - [Dynamic Programming](#dynamic-programming)
  - [Flow](#flow)
@@ -17,6 +18,20 @@ Topics
  - [Binary Indexed Trees](#binary-indexed-trees)
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
+
+## Arrays
+---
+ - Questions
+
+ 	- [Sweets - Array](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc0a5f3793a8e193a604b35)
+ 	- [Prefix and Suffix](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc0a0f74df01f024022c874)
+ 	- [Holiday Season](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc3f1f04df01f024022c876)
+ 	- [Largest Number](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc3f2c34df01f024022c878)
+	- [Marbles](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc3f31f4df01f024022c87a)
+	- [Wave Array](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cd67eabe5d6f744d50f59b5)
+	
+
+
 
 ## Binary Search and Ternary Search
 ---
