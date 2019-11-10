@@ -4,6 +4,7 @@ A Curated list of Topic wise Theory and Questions to Get You Started On Competit
 
 Topics
 ---
+ - [Programming Course](#Programming Course)
  - [Arrays](#arrays)
  - [Binary and Ternary Search](#binary-and-ternary-search)
  - [Dynamic Programming](#dynamic-programming)
@@ -18,6 +19,13 @@ Topics
  - [Binary Indexed Trees](#binary-indexed-trees)
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
+
+## Programming Course
+---
+ - Course is high quality/free/structured and covers all basics from A to Z
+
+	- [Java](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
+	- [C++](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj)
 
 ## Arrays
 ---
