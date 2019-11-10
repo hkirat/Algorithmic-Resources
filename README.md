@@ -22,10 +22,10 @@ Topics
 
 ## Programming Course
 ---
- - Course is high quality/free/structured and covers everything from A to Z
+ - Course is high quality/free/structured and covers all basics from A to Z
 
-	-[Java A to Z](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
-	-[C++](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj)
+	- [Java](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
+	- [C++](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj)
 
 ## Arrays
 ---
