@@ -48,7 +48,7 @@ Topics
  - Questions on
 
  	- [Codeforces](http://codeforces.com/problemset/tags/binary%20search)
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=40)
+ 	- [A2oj](https://www.a2oj.com/Category40.html)
  	- [Codechef](https://discuss.codechef.com/tags/binarysearch/)
 
 ## Dynamic Programming
@@ -66,7 +66,7 @@ Topics
  	- [Hackerrank](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
  	- [spoj](http://problemclassifier.appspot.com/?keywords=dp)
  	- [More Problems on SPOJ](http://apps.topcoder.com/forums/;jsessionid=C684F032169B7439C8012AAB6BA2018C?module=Thread&threadID=674592)
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=33)
+ 	- [A2oj](https://www.a2oj.com/Category33.html)
  	- [Codeforces](http://codeforces.com/problemset/tags/dp)
 
 ## Flow
@@ -80,7 +80,7 @@ Topics
  - Questions
 
  	- [spoj](http://problemclassifier.appspot.com/?keywords=flow)
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=12)
+ 	- [A2oj](https://www.a2oj.com/Category12.html)
 
 ## Game Theory
 ---
@@ -95,7 +95,7 @@ Topics
 	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/) - Introduction to Algorithmic Games.
 
  - Questions on 
-	- [A2oj](http://a2oj.com/Category.jsp?ID=91)
+	- [A2oj](https://www.a2oj.com/Category91.html)
 
 ## Graphs
 ---
@@ -114,7 +114,7 @@ Topics
 
  	- [Codeforces](http://codeforces.com/problemset/tags/graphs)
  	- [Codechef](https://discuss.codechef.com/tags/graph/)
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=13)
+ 	- [A2oj](https://www.a2oj.com/Category13.html)
 
 ## Greedy
 ---
@@ -129,7 +129,7 @@ Topics
  - Questions on
 
   	- [Codeforces](http://codeforces.com/problemset/tags/greedy)
-  	- [A2oj](http://a2oj.com/Category.jsp?ID=56)
+  	- [A2oj](https://www.a2oj.com/Category56.html)
 
 ## Maths
 ---
@@ -143,7 +143,7 @@ Topics
 
  - Questions on 
  
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=86)
+ 	- [A2oj](https://www.a2oj.com/Category86.html)
  	- [Codechef](https://discuss.codechef.com/tags/simple-math/) - Basic
  	- [Codechef](https://discuss.codechef.com/tags/maths/) - Advanced
 
@@ -159,7 +159,7 @@ Topics
 
  - Questions on
 
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=32)
+ 	- [A2oj](https://www.a2oj.com/Category32.html)
 	- [POWSUM on CodeChef](https://www.codechef.com/problems/POWSUMS)
 
 ## Miscellaneous
@@ -207,7 +207,7 @@ Topics
 
  	- [Codechef](https://www.codechef.com/problems/TWSTR/)
  	- [Another problem on Codechef](https://www.codechef.com/SEPT13/problems/TMP01)
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=49)
+ 	- [A2oj](https://www.a2oj.com/Category49.html)
 
 ## Binary Indexed Trees
 ---
@@ -219,7 +219,7 @@ Topics
   - [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
   - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
  - Questions on
-  - [A2oj](https://a2oj.com/Category.jsp?ID=26)
+  - [A2oj](https://www.a2oj.com/Category26.html)
 
 ## Segment Trees
 ---
@@ -234,7 +234,7 @@ Topics
  - Questions on
 
  	- [Codechef](https://discuss.codechef.com/tags/segment-tree/)
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=25)
+ 	- [A2oj](https://www.a2oj.com/Category25.html)
 
 ## Trees
 ---
@@ -249,5 +249,5 @@ Topics
 
  	- [Hackerrank](https://www.hackerrank.com/domains/data-structures/trees)
  	- [Codechef](https://discuss.codechef.com/tags/trees/)
- 	- [A2oj](http://a2oj.com/Category.jsp?ID=89)
+ 	- [A2oj](https://www.a2oj.com/Category89.html)
  	- [Codeforces](http://codeforces.com/problemset/tags/trees)
