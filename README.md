@@ -115,8 +115,7 @@ Topics
  	- [Codeforces](http://codeforces.com/problemset/tags/graphs)
  	- [Codechef](https://discuss.codechef.com/tags/graph/)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=13)
-
-## Greedy
+ 	- [GeekforGeeks](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 ---
 *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
 
