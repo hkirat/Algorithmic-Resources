@@ -116,7 +116,7 @@ Topics
  	- [Codechef](https://discuss.codechef.com/tags/graph/)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=13)
 
-## Greedy
+## Greedy Problems
 ---
 *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
 
