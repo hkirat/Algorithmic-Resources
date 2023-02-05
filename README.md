@@ -47,7 +47,7 @@ Topics
 
  - Questions on
 
- 	- [Codeforces](http://codeforces.com/problemset/tags/binary%20search)
+ 	- [Codeforces](https://codeforces.com/problemset?tags=binary%20search)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=40)
  	- [Codechef](https://discuss.codechef.com/tags/binarysearch/)
 
@@ -67,7 +67,7 @@ Topics
  	- [spoj](http://problemclassifier.appspot.com/?keywords=dp)
  	- [More Problems on SPOJ](http://apps.topcoder.com/forums/;jsessionid=C684F032169B7439C8012AAB6BA2018C?module=Thread&threadID=674592)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=33)
- 	- [Codeforces](http://codeforces.com/problemset/tags/dp)
+ 	- [Codeforces](https://codeforces.com/problemset?tags=dp)
 
 ## Flow
 ---
@@ -112,7 +112,7 @@ Topics
 
  - Questions on
 
- 	- [Codeforces](http://codeforces.com/problemset/tags/graphs)
+ 	- [Codeforces](https://codeforces.com/problemset?tags=graphs)
  	- [Codechef](https://discuss.codechef.com/tags/graph/)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=13)
 
@@ -128,7 +128,7 @@ Topics
 
  - Questions on
 
-  	- [Codeforces](http://codeforces.com/problemset/tags/greedy)
+  	- [Codeforces](https://codeforces.com/problemset?tags=greedy)
   	- [A2oj](http://a2oj.com/Category.jsp?ID=56)
 
 ## Maths
@@ -250,4 +250,4 @@ Topics
  	- [Hackerrank](https://www.hackerrank.com/domains/data-structures/trees)
  	- [Codechef](https://discuss.codechef.com/tags/trees/)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=89)
- 	- [Codeforces](http://codeforces.com/problemset/tags/trees)
+ 	- [Codeforces](https://codeforces.com/problemset?tags=trees)
