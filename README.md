@@ -215,10 +215,12 @@ Topics
 
  - Theory
 
-  - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/) 
-  - [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
-  - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+   - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/) 
+   - [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
+   - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+ 
  - Questions on
+  
   - [A2oj](https://a2oj.com/Category.jsp?ID=26)
 
 ## Segment Trees
