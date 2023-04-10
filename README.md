@@ -2,7 +2,7 @@
 
 A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
 
-Topics
+Arrays
 ---
  - [Arrays](#arrays)
  - [Binary and Ternary Search](#binary-and-ternary-search)
@@ -19,7 +19,7 @@ Topics
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
-## Arrays
+## Topics
 ---
  - Questions
 
