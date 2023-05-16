@@ -19,7 +19,7 @@ Topics
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
-## Arrays
+## New Arrays problems of my choice are being implemented over here
 ---
  - Questions
 
