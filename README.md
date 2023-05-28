@@ -49,7 +49,8 @@ _Ternary Search : The process of exploiting the property of a function having do
 
 - Questions on
 
-  - [Codeforces](http://codeforces.com/problemset/tags/binary%20search)
+  - [Codeforces]
+    https://codeforces.com/problemset?tags=binary+search
   - [A2oj](http://a2oj.com/Category.jsp?ID=40)
   - [Codechef](https://discuss.codechef.com/tags/binarysearch/)
 
