@@ -2,7 +2,12 @@
 
 A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
 
-Topics
+NS : dns1.p09.nsone.net.
+NS : dns2.p09.nsone.net.
+NS : dns3.p09.nsone.net.
+NS : dns4.p09.nsone.net.
+NS : ns5.dnsmadeeasy.com.
+SOA : dns1.p09.nsone.net. hostmaster.nsone.net. 1644950592 3600 600 604800 1800
 ---
  - [Arrays](#arrays)
  - [Binary and Ternary Search](#binary-and-ternary-search)
