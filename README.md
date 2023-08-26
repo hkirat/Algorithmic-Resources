@@ -35,9 +35,9 @@ Topics
 
 ## Binary Search and Ternary Search
 ---
-*Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
+*Binary Search: The process of exploiting the property of an array of being sorted to arrive at answers of questions in non-linear time.*
 
-*Ternary Search : The process of exploiting the property of a function having double diffrential of a constant sign to arrive to results in non linear time.*
+*Ternary Search: The process of exploiting the property of a function having double differential of a constant sign to arrive to results in non-linear time.*
 
  - Theory
 
@@ -53,7 +53,7 @@ Topics
 
 ## Dynamic Programming
 ---
-*Used to solve questions which can be broken down into smaller sub problems.It involves the technique of saving the result of a problem for future reference.*
+*Used to solve questions which can be broken down into smaller sub-problems. It involves the technique of saving the result of a problem for future reference.*
 
  - Theory
 
@@ -118,7 +118,7 @@ Topics
 
 ## Greedy
 ---
-*Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
+*Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration its future effects.*
 
  - Theory
 
@@ -149,7 +149,7 @@ Topics
 
 ## Matrix Exponentiation
 ---
-*Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.*
+*Used to solve problems which involves finding a solution to a given series by using exponentiation property on multiplication of matrices. The complexity is thus reduced to logarithmic from linear.*
 
  - Theory
 
@@ -242,7 +242,7 @@ Topics
 
  - Theory
 
- 	- [Hackerearth](https://www.hackerearth.com/notes/trees/) - Baisc introduction to trees and terminologies related to it by [Anuj Garg](https://www.hackerearth.com/users/anuj09garg/)
+ 	- [Hackerearth](https://www.hackerearth.com/notes/trees/) - Basic introduction to trees and terminologies related to it by [Anuj Garg](https://www.hackerearth.com/users/anuj09garg/)
  	- [Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure)) - Tree (data structure)
 
  - Questions on
