@@ -190,7 +190,7 @@ Topics
  - Other Resources
  	- [Data Structures](http://codeforces.com/blog/entry/15729) - A guide to high level data structures by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
 
-## Prefix and Suffix Trees
+## Prefix Trees and Suffix Trees
 ---
 *Tries are some kind of rooted trees in which each edge has a character on it.*
 
